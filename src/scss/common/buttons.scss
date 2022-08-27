@@ -1,0 +1,11 @@
+.btn{
+    cursor: pointer;
+    border: 0;
+    &--medium{
+        padding: 15px 20px;
+    }
+    &--dark-blue{
+        background: $color-dark-blue;
+        color: $color-white;
+    }
+}
